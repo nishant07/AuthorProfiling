@@ -30,3 +30,7 @@ PsychDict.man -  the formated documentation for other systems.
 
 The software was produced by Michael Wilson, Informatics Division,
 Rutherford Appleton Laboratories.
+
+Sample run:
+gcc dict.c -o dict
+./dict -W -A -S -P > MRC.txt

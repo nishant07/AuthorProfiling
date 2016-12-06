@@ -1,0 +1,3 @@
+huge data
+not proper blogs (some conversations)
+No full stops at many places, so difficult to parse, find number of sentences.
